@@ -1,0 +1,23 @@
+﻿body{
+    background: #232323;
+}
+.content{
+    height: 100%;
+}
+.main {
+    background: red;
+    height: 100%;
+}
+.header{
+    background: blue;
+    height: 10%;
+}
+.footer{
+    background: green;
+    height: 10%;
+}
+#screen{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    overflow: hidden;
+}
